@@ -1,5 +1,13 @@
+import {Page} from './../../components';
+import {PAGES} from "../../utils/constants";
+import "./styles.scss";
+
 const Home = props => {
-  return <>Laxmi Overseas</>;
+  return (
+    <Page pageName={PAGES.HOME}>
+
+    </Page>
+  )
 }
 
 export default Home;

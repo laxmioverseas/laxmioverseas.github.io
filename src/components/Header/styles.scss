@@ -1,0 +1,19 @@
+@import './../../styles/variables';
+
+.Header {
+  &__Logo {
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+.Logo {
+  font-family: 'Great Vibes';
+  padding: 20px 0;
+  text-align: center;
+
+  @media screen and (min-width: $tablet) {
+    text-align: left;
+  }
+}

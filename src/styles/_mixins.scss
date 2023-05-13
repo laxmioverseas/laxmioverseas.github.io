@@ -1,0 +1,13 @@
+@import './variables';
+
+@mixin FontSize($fs-mobile, $fs-tablet, $fs-desktop) {
+  font-size: $fs-mobile;
+
+  @media screen and (min-width: $tablet) {
+    font-size: $fs-tablet;
+  }
+
+  @media screen and (min-width: $desktop) {
+    font-size: $fs-desktop;
+  }
+}
