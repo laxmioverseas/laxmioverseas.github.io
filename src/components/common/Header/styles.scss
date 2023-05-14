@@ -1,0 +1,36 @@
+@import './../../../styles/variables';
+
+.Header {
+  display: flex;
+  justify-content: center;
+
+  &__Logo {
+    a {
+      text-decoration: none;
+    }
+  }
+
+  &__Navigation {
+    display: none;
+  }
+}
+
+.Logo {
+  font-family: 'Great Vibes';
+  padding: 20px 0;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+
+  @media screen and (min-width: $tablet) {
+    // text-align: left;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  img {
+    width: 128px;
+  }
+}
