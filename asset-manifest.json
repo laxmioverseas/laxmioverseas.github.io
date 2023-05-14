@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ce971a5.css",
-    "main.js": "/static/js/main.c5b215a1.js",
+    "main.css": "/static/css/main.e1ad58ab.css",
+    "main.js": "/static/js/main.e3230d2d.js",
     "static/js/787.293bf68e.chunk.js": "/static/js/787.293bf68e.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/logo.png": "/static/media/logo.c93ac2fceccbdea423e2.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
     "static/media/GreatVibes-Regular.ttf": "/static/media/GreatVibes-Regular.39c04c4f40f4b2c45bcc.ttf",
     "index.html": "/index.html",
-    "main.4ce971a5.css.map": "/static/css/main.4ce971a5.css.map",
-    "main.c5b215a1.js.map": "/static/js/main.c5b215a1.js.map",
+    "main.e1ad58ab.css.map": "/static/css/main.e1ad58ab.css.map",
+    "main.e3230d2d.js.map": "/static/js/main.e3230d2d.js.map",
     "787.293bf68e.chunk.js.map": "/static/js/787.293bf68e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ce971a5.css",
-    "static/js/main.c5b215a1.js"
+    "static/css/main.e1ad58ab.css",
+    "static/js/main.e3230d2d.js"
   ]
 }
