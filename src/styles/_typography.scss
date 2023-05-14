@@ -1,7 +1,0 @@
-@import './variables.scss';
-@import './mixins';
-
-.t1 {
-  color: $chamoisee-2;
-  @include FontSize(48px, 64px, 64px);
-}

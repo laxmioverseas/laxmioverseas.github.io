@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ce971a5.css",
+    "main.js": "/static/js/main.c5b215a1.js",
+    "static/js/787.293bf68e.chunk.js": "/static/js/787.293bf68e.chunk.js",
+    "static/media/GreatVibes-Regular.ttf": "/static/media/GreatVibes-Regular.39c04c4f40f4b2c45bcc.ttf",
+    "index.html": "/index.html",
+    "main.4ce971a5.css.map": "/static/css/main.4ce971a5.css.map",
+    "main.c5b215a1.js.map": "/static/js/main.c5b215a1.js.map",
+    "787.293bf68e.chunk.js.map": "/static/js/787.293bf68e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ce971a5.css",
+    "static/js/main.c5b215a1.js"
+  ]
+}
